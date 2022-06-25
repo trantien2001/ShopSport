@@ -1,0 +1,1 @@
+<h1>Tin tức lấy từ database ra</h1>
